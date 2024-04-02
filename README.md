@@ -26,7 +26,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # video practicas
 - Join the discussion and conversation on [https://github.com/jeronasiedu/health_app_ui.git](https://youtu.be/h8b17A2eC2Q?si=jlJDs_AxrRiNTJuC)
+- https://youtu.be/Qg9N_FOhLzo?si=HbJpl78eX4XaZvQq
 
 # GitHu
 - Join the discussion and conversation on[ [https://github.com/jeronasiedu/health_app_ui.git](https://youtu.be/h8b17A2eC2Q?si=jlJDs_AxrRiNTJuC)](https://github.com/ahadhashmii/dashboard_flutter_tutorial.git)
-- 
+- https://github.com/mjsdcoding/cloud_files_storage_flutter_ui.git
