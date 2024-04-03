@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## video
 - Join the discussion and conversation on https://youtu.be/r1CUNbJt9rU?si=27L2ZecL7bH4A5ed
+- https://youtu.be/NNrUVtLQleQ?si=gP00MM61NigJsClQ
 
 ## video
 - Join the discussion and conversation on https://github.com/jeronasiedu/health_app_ui.git
