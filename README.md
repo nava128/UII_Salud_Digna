@@ -24,6 +24,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## video
 - Join the discussion and conversation on https://github.com/jeronasiedu/health_app_ui.git
+- https://github.com/julvikramsupandi/flutter-ui-smart-home-app.git
+- https://youtu.be/jzrzTtpc92U?si=maeBoyWqaHHAm7OK
 
 # video practicas
 - Join the discussion and conversation on [https://github.com/jeronasiedu/health_app_ui.git](https://youtu.be/h8b17A2eC2Q?si=jlJDs_AxrRiNTJuC)
